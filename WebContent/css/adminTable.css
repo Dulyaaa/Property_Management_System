@@ -1,0 +1,121 @@
+@charset "ISO-8859-1";
+
+
+table{ 
+  border-spacing: 20; 
+  border-collapse: collapse; 
+  background: lightgray;
+  border-radius:10px;
+  overflow:hidden;
+  max-width:85%; 
+  width:100%;
+  margin:0 auto;
+  position:relative;
+  padding: 100px;
+} 
+
+.header{
+  max-width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 25px;
+  background: black;
+} 
+ 
+ td,th {
+ 	padding-left:10px;
+ 	padding-right: 10px;
+ 	height: 70px;
+ }
+ 
+thead tr { 
+    height:60px;
+    background: pink;
+    font-size:22px;
+  }
+ 
+body{ 
+  background:; 
+  font:400 20px 'Calibri','Arial';
+  padding:20px;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 300px;
+  font-size: 18px;
+  font-color: white;
+}
+
+.button:hover, a:hover {
+  opacity: 0.7;
+}
+
+a {
+	font-size: 20px;
+}
+
+.button1 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: green;
+  text-align: center;
+  cursor: pointer;
+  width: 100px;
+  font-size: 15px;
+  font-color: white;
+  border-radius: 10px;
+}
+
+.button1:hover, a:hover {
+  opacity: 0.7;
+}
+
+.button2 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  cursor: pointer;
+  width: 100px;
+  font-size: 15px;
+  font-color: white;
+  border-radius: 10px;
+}
+
+.button2:hover {
+  opacity: 0.7;
+}
+
+.button3 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: purple;
+  text-align: center;
+  cursor: pointer;
+  width: 300px;
+  font-size: 18px;
+  font-color: white;
+  border-radius: 10px;
+}
+
+.button3:hover, a:hover {
+  opacity: 0.7;
+}
+

@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+.heading {
+  font-size: 50px;
+  color: PaleVioletRed;
+}
+
+body {
+  padding: 20px;
+  background: #ffffff;
+}
+
+.header{
+  max-width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background: black;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  background: silver;
+}
+
+.contact {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-weight:900;
+  background: white;
+  color: purple;
+  padding: 1px;
+}
+
+.title {
+  color: teal;
+  font-size: 20px;
+  text-align: left;
+}
+
