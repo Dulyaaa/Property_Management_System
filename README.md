@@ -8,6 +8,7 @@ This is a  simple efficient system. Here we try to solve the difficulties faced 
 
 ### 🛠 My contribution to the project was:
 * User account where user can update user details, create ad and view
+* Login and Logout operations with sessions
 * Admin could add new Ideal Home(Service)
 * Admin could View, Update, and delete all Ideal Home
 * Display all Ideal Home
