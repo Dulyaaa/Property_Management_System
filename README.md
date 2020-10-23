@@ -1,6 +1,6 @@
 # 🏡 Property Management System
 
-This is a group project for 2nd Year 1st Semester - Object Oriented Programming (OOP) module, where we have to build a Property Management System according to the OOP concept. 
+This is a group project for 2nd Year 1st Semester - Object Oriented Programming (OOP) module, where we have to build a Property Management System by considering the OOP concept. 
 
 ## About
 
